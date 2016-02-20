@@ -1,9 +1,7 @@
 +++
 date = "2016-02-18T17:07:50+01:00"
-draft = true
 title = "First"
-tags = [ "tag1", "tag2" ]
-categories = [ "Testing" ]
+tags = ["tag1", "tag2"]
 +++
 
 ## The First Test Post

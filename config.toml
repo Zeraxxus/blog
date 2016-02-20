@@ -1,27 +1,27 @@
-baseurl = "http://www.pixelpowered.eu/"
-title = "PixelPowered"
+baseurl = "http://zeraxxus.dk/"
+title = "www.zeraxxus.dk"
 theme = "ghostwriter"
 languageCode = "en-us"
 copyright = "Bjarne Kristensen"
 googleAnalytics = "XXX"
-disqusShortname = "XXX"
+disqusShortname = "zeraxxus"
 
 [Author]
     name = "Bjarne Kristensen"
-    profile = "https://google.com/+XXX"
+    profile = "https://plus.google.com/115860921316607758048"
 
 [Taxonomies]
     tag = "tags"
 
 [Params]
     intro = true
-    headline = "PixelPowered"
-    description = "Game Development"
-    github = "https://github.com/XXX"
-    linkedin = "https://linkedin.com/in/XXX/"
-    gplus = "https://google.com/+XXX"
-    twitter = "https://twitter.com/XXX"
-    stackoverflow = "http://stackoverflow.com/users/XXX/YYY"
+    headline = "Bjarne \"Zeraxxus\" Kristensen"
+    description = "Personal Blog"
+    github = "https://github.com/zeraxxus"
+    linkedin = "https://linkedin.com/in/bjarne-kristensen-06b38b104"
+    gplus = "https://plus.google.com/115860921316607758048"
+    twitter = "https://twitter.com/Zeraxxus"
+    stackoverflow = "http://stackoverflow.com/users/876238/zeraxxus"
 
 [[menu.main]]
     name = "Blog"
